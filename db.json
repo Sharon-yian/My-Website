@@ -1,0 +1,163 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2024/02/Samsung-Galaxy-Fit-3.jpg",
+      "name": "Galaxy Fit Pro",
+      "price": 199,
+      "currency": "USD",
+      "brand": "Samsung",
+      "description": "A sleek and lightweight fitness tracker with heart rate monitoring, sleep tracking,and ultra view display."
+    },
+    {
+      "id": "2",
+      "image": "https://www.apple.com/newsroom/images/2023/09/apple-introduces-the-advanced-new-apple-watch-series-9/article/Apple-Watch-S9-pink-aluminum-Sport-Band-pink-230912_inline.jpg.large.jpg",
+      "name": "Apple Watch Series 9",
+      "price": 399,
+      "currency": "USD",
+      "brand": "Apple",
+      "description": "Elegance ,sleek design ,fast performance and features that keep up with you."
+    },
+    {
+      "id": "3",
+      "image": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/82/5056652/1.jpg?8633",
+      "name": "Fitbit Versa 4",
+      "price": 149,
+      "currency": "USD",
+      "brand": "Fitbit",
+      "description": "Fitness-focused smartwatch with built-in GPS, heart rate tracking, and daily readiness score."
+    },
+    {
+      "id": "4",
+      "image": "https://cellularkenya.co.ke/wp-content/uploads/2022/05/cf-lg-fb4833b5-650e-4c32-addb-65e0a52b5e35.jpeg",
+      "name": "Garmin Venu 2 Plus",
+      "price": 349,
+      "currency": "USD",
+      "brand": "Garmin",
+      "description": "Premium GPS smartwatch with crystal display, voice assistant support, and extensive fitness tracking."
+    },
+    {
+      "id": "5",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2024/01/Huawei-Watch-GT-4-46mm-Brown-Leather-Strap.jpg",
+      "name": "Huawei Watch GT 4",
+      "price": 229,
+      "currency": "USD",
+      "brand": "Huawei",
+      "description": "Elegant smartwatch with long battery life, health tracking, and a variety of workout modes."
+    },
+    {
+      "id": "6",
+      "image": "https://linkphonescenter.com/images/uploads/2023/08/71hlIT17z5L.jpg",
+      "name": "Amazfit GTR 4",
+      "price": 199,
+      "currency": "USD",
+      "brand": "Amazfit",
+      "description": "Smartwatch with dual-band GPS, advanced health tracking, and a premium build."
+    },
+    {
+      "id": "7",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2023/10/Google-Pixel-Watch-2-c.jpg",
+      "name": "Google Pixel Watch 2",
+      "price": 349,
+      "currency": "USD",
+      "brand": "Google",
+      "description": "Seamless google intergration,advanced health tracking and a design that fits your life perfectly."
+    },
+    {
+      "id": "8",
+      "image": "https://smartphonecity.ke/product_images/Samsun_smartphonecityke_16739f88d39dba.webp",
+      "name": "Samsung Galaxy Watch 6",
+      "price": 299,
+      "currency": "USD",
+      "brand": "Samsung",
+      "description": "Stylish smartwatch with advanced health monitoring, Wear OS support, and a rotating bezel."
+    },
+    {
+      "id": "9",
+      "image": "https://m.media-amazon.com/images/I/71nRrq0A-5L._AC_SL1500_.jpg",
+      "name": "Suunto 9 Peak Pro",
+      "price": 399,
+      "currency": "USD",
+      "brand": "Suunto",
+      "description": "Rugged multisport GPS watch with exceptional battery life and detailed performance metrics."
+    },
+    {
+      "id": "10",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71mTOO-TKUL._UL500_.jpg",
+      "name": "TicWatch Pro 5",
+      "price": 329,
+      "currency": "USD",
+      "brand": "Mobvoi",
+      "description": "High-performance Wear OS smartwatch with dual-display technology and long battery life."
+    },
+    {
+      "id": "11",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71BvzmoOmlL._SL100_.jpg",
+      "name": "Fossil Gen 6",
+      "price": 249,
+      "currency": "USD",
+      "brand": "Fossil",
+      "description": "Fashion-forward smartwatch with Snapdragon Wear 4100+, Alexa support, and fast charging."
+    },
+    {
+      "id": "12",
+      "image": "https://orifon.co.ke/wp-content/uploads/2025/04/wathc-nova-n-osw-813n.webp",
+      "name": "Oraimo Watch Pro",
+      "price": 499,
+      "currency": "USD",
+      "brand": "Oraimo",
+      "description": "Stainless steel ,leather,silica gel watch straps ,long-lasting battery."
+    },
+    {
+      "id": "13",
+      "image": "https://www.benda.co.il/wp-content/uploads/2024/04/30212-002-04_2.webp",
+      "name": "Polar Ignite 3",
+      "price": 329,
+      "currency": "USD",
+      "brand": "Polar",
+      "description": "Fitness watch with personalized sleep and training guidance, AMOLED display, and GPS."
+    },
+    {
+      "id": "14",
+      "image": "https://www.badeqshop.co.ke/cdn/shop/files/Coros-Pace-3-Nylon-Band-Eliud-Kipchoge-WPACE3-EK_1.jpg?v=1708318984",
+      "name": "Coros Pace 3",
+      "price": 229,
+      "currency": "USD",
+      "brand": "Coros",
+      "description": "Lightweight GPS sports watch with advanced training tools and up to 38 hours of battery life in GPS mode."
+    },
+    {
+      "id": "15",
+      "image": "https://www.themobileindian.com/wp-content/uploads/2022/04/Skagen-falster-gen-6-696x392.png",
+      "name": "Skagen Falster Gen 6",
+      "price": 295,
+      "currency": "USD",
+      "brand": "Skagen",
+      "description": "Minimalist Danish design meets Wear OS tech with fast charging and customizable watch faces."
+    }
+  ],
+  "cart": [
+    {
+      "id": "14",
+      "image": "https://www.badeqshop.co.ke/cdn/shop/files/Coros-Pace-3-Nylon-Band-Eliud-Kipchoge-WPACE3-EK_1.jpg?v=1708318984",
+      "name": "Coros Pace 3",
+      "price": 229,
+      "currency": "USD",
+      "brand": "Coros",
+      "description": "Lightweight GPS sports watch with advanced training tools and up to 38 hours of battery life in GPS mode.",
+      "productId": "14",
+      "quantity": 1
+    },
+    {
+      "id": "12",
+      "image": "https://orifon.co.ke/wp-content/uploads/2025/04/wathc-nova-n-osw-813n.webp",
+      "name": "Oraimo Watch Pro",
+      "price": 499,
+      "currency": "USD",
+      "brand": "Oraimo",
+      "description": "Stainless steel ,leather,silica gel watch straps ,long-lasting battery.",
+      "productId": "12",
+      "quantity": 1
+    }
+  ]
+}

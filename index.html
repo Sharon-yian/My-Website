@@ -1,0 +1,92 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digital Clock App Store</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Smartwatch Store</h1>
+    
+      <a href="#">Home</a>
+      <a href="#products">Shop</a>
+      <a href="#cart-section" class="cart">Cart (0)</a>
+    
+  </header>
+
+  <main>
+    <section id="products">
+      <h2>Available Watches</h2>
+      <div class="products"></div>
+    </section>
+
+    <section id="cart-section">
+      <h2>Place your order here</h2>
+      
+      <table>
+     <thead>
+          <tr>
+    <th>Image</th>
+    <th>Name</th>
+    <th>Brand</th>
+    <th>Description</th>
+    <th>Price</th>
+    <th>Qty</th>
+    <th>Total</th>
+    <th>Remove</th>
+          </tr>
+        </thead>
+        <tbody id="cart-items"></tbody>
+      </table>
+      <h3>Subtotal: $<span id="subtotal">0.00</span></h3>
+    
+    </section>
+
+    <section id="checkout">
+      <h2>Checkout</h2>
+      <form id="checkout-form">
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" required>
+
+        <label for="payment">Payment Method:</label>
+        <select id="payment" required>
+          <option value="">Select </option>
+          <option value="mpesa">M-Pesa</option>
+          <option value="card">Credit/Debit Card</option>
+          
+        </select>
+        <button type="submit">checkout</button>
+      </form>
+
+      <div id="order-message"></div>
+      <p> Order placed successfully! Thank you for shopping with us.</p>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-content">
+
+      <div class="social-media">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1920px-Instagram_logo_2022.svg.png" alt="instagram" width="100" height="100">
+        <img src="https://www.citypng.com/public/uploads/preview/square-whatsapp-wa-watsup-green-app-logo-icon-png-image-701751695124306r4ukua74oq.png" alt="Whatsapp" width="100" height="100">
+        <img src="https://www.thinkdesignagency.co.uk/wp-content/uploads/2023/07/Twitter-rebrands-as-X.jpg" alt="Twitter" width="100" height="100">
+        <img src="https://thumbs.dreamstime.com/b/youtube-new-155631998.jpg?w=992" alt="YouTube" width="100" height="100">
+        <img src="https://cdn.mos.cms.futurecdn.net/scyGHSiFTQVjRyFSi2KCcd-650-80.jpg.webp" alt="tiktok" width="100" height="100">
+      </div>
+
+      <div class="contact-info">
+        <p>Contact us: support@smartwatchstore.com | +254 700 123 456</p>
+        <p> All rights reserved.&copy; 2025 Smartwatch Store.Innovation on your wrist.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="index.js"></script>
+</body>
+</html>
+ 
